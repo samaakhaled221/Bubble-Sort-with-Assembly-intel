@@ -1,5 +1,3 @@
-; samaa khaled _ 20188028_b2
-
 format pe; console
  entry start
  include 'win32ax.inc'
