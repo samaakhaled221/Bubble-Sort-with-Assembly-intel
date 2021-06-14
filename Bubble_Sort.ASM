@@ -46,7 +46,6 @@ jmp firstloop
 endofloops:
 
 
-
 mov ecx,[sz]
 mov eax , 0
 printloop:
@@ -58,7 +57,6 @@ pop ecx
 add eax,1
 loop printloop ; if ecx = 0 endloop else dec ecx jmp startloop
 cinvoke scanf,f5,vard
-
 
 
 exit:
@@ -75,8 +73,6 @@ arr dd  5,8,7,4,1,9
 sz  dd 6
 i dd 0
 j dd 0
-tem dd 0
-
 
 
 section '.idata' import data readable writeable
