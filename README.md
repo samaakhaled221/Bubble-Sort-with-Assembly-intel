@@ -1,6 +1,6 @@
 # Bubble-Sort-with-Assembly-intel
 
-##bubble sort with assembly x86 
+## Bubble sort with assembly x86 
 converted from this c++ code:
 
 ```bash
