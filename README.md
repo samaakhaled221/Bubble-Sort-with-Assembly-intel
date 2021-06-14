@@ -1,8 +1,9 @@
 # Bubble-Sort-with-Assembly-intel
 
-bubble sort with assembly x86 
+##bubble sort with assembly x86 
 converted from this c++ code:
-----------------------------------------
+
+```bash
 int[] arr= {5,8,7,4,1,9}
 int n =6;
 for (i = 0; i < n-1; i++)
@@ -21,3 +22,4 @@ For (int i=0; I < n ;i++)
 {
 Cout << “  ”+arr[i]+ “  ” ;
 }
+```
